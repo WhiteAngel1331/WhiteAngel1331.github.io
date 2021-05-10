@@ -68,3 +68,8 @@ body{
         opacity: 1;
     }
 }
+
+header{
+    height: 10%;
+    background-color: aquamarine;
+}
