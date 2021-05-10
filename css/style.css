@@ -5,8 +5,6 @@ html, body{
 body{
     display: flex;
     flex-direction: column;
-    justify-content: center;
-    align-items: center;
 }
 
 .modalBackground{
@@ -70,6 +68,30 @@ body{
 }
 
 header{
+    display: flex;
+    align-items: center;
     height: 10%;
     background-color: aquamarine;
+}
+
+header h1{
+    margin: 20px;
+}
+
+.subHeader{
+    display: flex;
+    height: 10%;
+    justify-content: center;
+}
+
+.main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 60%;
+}
+
+footer{
+    height: 20%;
+    border: 2px solid rgba(128, 128, 128, 0.274);
 }
