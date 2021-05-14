@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "./static/css/main.ed6f8142.chunk.css",
-    "main.js": "./static/js/main.a9dae0a4.chunk.js",
-    "main.js.map": "./static/js/main.a9dae0a4.chunk.js.map",
-    "runtime-main.js": "./static/js/runtime-main.4330e4fb.js",
-    "runtime-main.js.map": "./static/js/runtime-main.4330e4fb.js.map",
-    "static/js/2.0c690bc0.chunk.js": "./static/js/2.0c690bc0.chunk.js",
-    "static/js/2.0c690bc0.chunk.js.map": "./static/js/2.0c690bc0.chunk.js.map",
-    "static/js/3.a8bf407d.chunk.js": "./static/js/3.a8bf407d.chunk.js",
-    "static/js/3.a8bf407d.chunk.js.map": "./static/js/3.a8bf407d.chunk.js.map",
+    "main.js": "./static/js/main.433b980b.chunk.js",
+    "main.js.map": "./static/js/main.433b980b.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.24fbadd4.js",
+    "runtime-main.js.map": "./static/js/runtime-main.24fbadd4.js.map",
+    "static/js/2.bc3511c0.chunk.js": "./static/js/2.bc3511c0.chunk.js",
+    "static/js/2.bc3511c0.chunk.js.map": "./static/js/2.bc3511c0.chunk.js.map",
+    "static/js/3.6e53356c.chunk.js": "./static/js/3.6e53356c.chunk.js",
+    "static/js/3.6e53356c.chunk.js.map": "./static/js/3.6e53356c.chunk.js.map",
     "index.html": "./index.html",
     "static/css/main.ed6f8142.chunk.css.map": "./static/css/main.ed6f8142.chunk.css.map",
-    "static/js/2.0c690bc0.chunk.js.LICENSE.txt": "./static/js/2.0c690bc0.chunk.js.LICENSE.txt",
+    "static/js/2.bc3511c0.chunk.js.LICENSE.txt": "./static/js/2.bc3511c0.chunk.js.LICENSE.txt",
     "static/media/App.css": "./static/media/FjallaOne-Regular.c674a102.ttf"
   },
   "entrypoints": [
-    "static/js/runtime-main.4330e4fb.js",
-    "static/js/2.0c690bc0.chunk.js",
+    "static/js/runtime-main.24fbadd4.js",
+    "static/js/2.bc3511c0.chunk.js",
     "static/css/main.ed6f8142.chunk.css",
-    "static/js/main.a9dae0a4.chunk.js"
+    "static/js/main.433b980b.chunk.js"
   ]
 }
